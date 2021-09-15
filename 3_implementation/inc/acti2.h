@@ -1,15 +1,5 @@
-#ifndef _ACT2_H_
-#define _ACT2_H_
-/**
- * @file act2.h
- * @author Tejaswi devina(you@domain.com)
- * @brief 
- * @version 0.1
- * @date 2021-04-29
- * 
- * @copyright Copyright (c) 2021
- * 
- */
+#ifndef _ACTI2_H_
+#define _ACTI2_H_
 
 
 #include <avr/io.h>
