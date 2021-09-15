@@ -1,5 +1,5 @@
 
-#include "act1.h"
+#include "acti1.h"
 
 /**
  * @brief function for declaring peripherals led,button,heater.
