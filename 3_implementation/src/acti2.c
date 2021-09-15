@@ -1,15 +1,6 @@
-/**
- * @file act2.c
- * @author Tejaswi devina (you@domain.com)
- * @brief 
- * @version 0.1
- * @date 2021-04-30
- * 
- * @copyright Copyright (c) 2021
- * 
- */
+
 #include <avr/io.h>
-#include "act2.h"
+#include "acti2.h"
 
 /**
  * @brief A function to initialise the analog to digital converter
