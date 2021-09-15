@@ -1,17 +1,8 @@
-/**
- * @file act3.c
- * @author Tejaswi devina (you@domain.com)
- * @brief 
- * @version 0.1
- * @date 2021-04-30
- * 
- * @copyright Copyright (c) 2021
- * 
- */
+
 #define F_CPU 16000000UL
 #include <avr/io.h>
 #include <util/delay.h>
-#include "act3.h"
+#include "acti3.h"
 
 
 /**
