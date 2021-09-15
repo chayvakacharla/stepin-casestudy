@@ -30,7 +30,7 @@ void TimerWaveGenMode(void);
 /**
  * @brief A function which receives 10 bit of ADC input from temperature sensor and outputs as a fast PWM waveform.
  * 
- * @param ADC_val 
+ * @ ADC_val 
  */
 int outputbyPWM(uint16_t ADC_val);
 
