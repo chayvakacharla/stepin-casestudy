@@ -1,15 +1,6 @@
-/**
- * @file act1.h
- * @author Tejaswi devina (you@domain.com)
- * @brief 
- * @version 0.1
- * @date 2021-04-29
- * 
- * @copyright Copyright (c) 2021
- * 
- */
-#ifndef _ACT1_H_
-#define _ACT1_H_
+
+#ifndef _ACTI1_H_
+#define _ACTI1_H_
 #include <avr/io.h>
 
 
