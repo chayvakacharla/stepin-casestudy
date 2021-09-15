@@ -25,7 +25,7 @@
 /**
  * @brief Initialize usart
  * 
- * @param ubrr_value 
+ * @ubrr_value 
  */
 void USARTInit(uint16_t ubrr_value);
 
