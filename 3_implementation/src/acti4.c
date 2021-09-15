@@ -13,7 +13,7 @@ void USARTInit(uint16_t ubrr_value){
 /**
  * @brief write to usart
  * 
- * @param data 
+ * @data 
  */
 
 void USARTWriteChar(int data){
