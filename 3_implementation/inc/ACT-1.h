@@ -1,6 +1,6 @@
 
 #ifndef _ACT-1_H_
-#define _ACT-1_H_
+#define _ACT1_H_
 #include <avr/io.h>
 
 
