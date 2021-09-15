@@ -1,20 +1,5 @@
-/**
- * @file act4.c
- * @author Tejaswidevina (you@domain.com)
- * @brief 
- * @version 0.1
- * @date 2021-04-30
- * 
- * @copyright Copyright (c) 2021
- * 
- */
-#include "act4.h"
 
-/**
- * @brief Initialize usart
- * 
- * @param ubrr_value 
- */
+#include "acti4.h"
 
 
 
