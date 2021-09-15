@@ -1,13 +1,4 @@
-/**
- * @file act4.h
- * @author Tejaswi Devina (you@domain.com)
- * @brief 
- * @version 0.1
- * @date 2021-04-30
- * 
- * @copyright Copyright (c) 2021
- * 
- */
+
 #ifndef _ACT4_H_
 #define _ACT4_H_
 #define USART_BAUD_PIN_L (UBRR0L) /**< LSB of BAUD **/
